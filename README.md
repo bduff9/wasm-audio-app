@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Tutorial from [Pitch Detector in Rust WASM](https://www.toptal.com/webassembly/webassembly-rust-tutorial-web-audio)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
